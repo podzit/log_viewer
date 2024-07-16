@@ -1,6 +1,6 @@
-# Pyventory
+# Log_viewer
 
-Logviewer is a simple Python app to read log in browser.
+Log_viewer is a simple Python app to read log in browser.
 
 ## Install
 
